@@ -3,7 +3,7 @@ package org.example;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class app {
+public class App {
     public static void main(String[] args) throws JsonProcessingException {
 
         ObjectMapper objectsMapper = new ObjectMapper();

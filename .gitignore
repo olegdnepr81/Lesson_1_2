@@ -141,7 +141,9 @@ hs_err_pid*
 replay_pid*
 
 ### Gradle ###
-../.gradle
+.gradle
+gradlew.bat
+gradlew
 **/build/
 !src/**/build/
 

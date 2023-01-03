@@ -21,7 +21,7 @@ jar {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     manifest {
         attributes(
-                'Main-Class': 'org.example.app'
+                'Main-Class': 'org.example.App'
         )
     }
     from {
